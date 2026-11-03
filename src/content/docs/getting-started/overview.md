@@ -17,8 +17,10 @@ Canvas Refined is for students who use Canvas that want more control over how it
 - **Organize your school work:** Keep track of things you have to do with an improved to do list.
 - **Deeper insights into your grades:** Use the GPA calculator to see your GPA across all your classes.
 
-And much more
+See the **Features** section for instructions, settings, and limitations for each feature.
 
-## Were to go to next?
+## Where to go next
 
-[Install](/getting-started/install)
+1. [Install Canvas Refined](/getting-started/install/).
+2. Follow the [Quick Start](/getting-started/quick-start/) for your first setup.
+3. Explore features such as [the Better Todo List](/features/better-todo-list/) and [grades and GPA](/features/grades-and-gpa/).

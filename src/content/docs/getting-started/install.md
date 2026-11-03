@@ -25,7 +25,7 @@ To see the changes:
 1. Open your school’s Canvas website.
 2. If Canvas was already open, refresh the page.
 
-If you don't see anything go to [Quick Start](/getting-started/quick-start) for more instructions.
+Next, follow the [Quick Start](/getting-started/quick-start/) to open the settings and set up your dashboard.
 
 ## Supported browsers
 
@@ -36,5 +36,6 @@ Canvas Refined is available for Chrome and Firefox. Other browsers built from ch
 - Refresh your Canvas page after installing.
 - Make sure Canvas Refined is enabled.
 - Check whether your browser has allowed the extension to access your Canvas website.
+- If your school's site isn't detected, click **+ Add canvas** in the extension popup and enter your school's Canvas URL.
 
 If all else fails try and get help in the [discord server](https://discord.gg/GjFh4JA3wh)

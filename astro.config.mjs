@@ -23,8 +23,16 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
+					label: 'Features',
+					items: [
+						{ slug: 'features/dark-mode' },
+						{ slug: 'features/dashboard-cards' },
+						{ slug: 'features/better-todo-list' },
+						{ slug: 'features/grades-and-gpa' },
+						{ slug: 'features/global-canvas-search' },
+						{ slug: 'features/dashboard-notes' },
+						{ slug: 'features/quiz-safe-mode' },
+					],
 				},
 			],
 		}),
