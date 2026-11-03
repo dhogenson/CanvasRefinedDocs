@@ -5,15 +5,21 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	integrations: [
-		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+    starlight({
+      logo: {
+        src: './public/canvas-refined.png',
+        replacesTitle: false,
+      },
+			title: 'Canvas Refined',
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/GuySandler/CanvasRefined' }, { icon: "discord", label: "Discord", href: 'https://discord.gg/GjFh4JA3wh'}],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Getting Started',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+            { label: 'Overview', slug: 'getting-started/overview' },
+            { label: 'Install', slug: 'getting-started/install' },
+						{ label: 'Quick Start', slug: 'getting-started/quick-start' },
 					],
 				},
 				{
