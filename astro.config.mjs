@@ -5,6 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   site: 'https://dhogenson.github.io',
   base: 'CanvasRefinedDocs',
+  outDir: './generated-docs',
 
   integrations: [
     starlight({
