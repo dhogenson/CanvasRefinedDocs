@@ -40,10 +40,10 @@ If the extension does not recognize your school:
 3. Enter your school's Canvas website address, such as `https://canvas.example.edu`, not a link to an individual assignment.
 4. Make sure your browser allows the extension to run on that site, then refresh Canvas.
 
-Only add sites you know are your school's Canvas instance. See [Privacy and Permissions](/privacy/) for why the extension requests website access.
+Only add sites you know are your school's Canvas instance. See [Privacy and Permissions](/CanvasRefinedDocs/privacy/) for why the extension requests website access.
 
 ## Not seeing any changes?
 
-Check that Canvas Refined is enabled in your browser's extension manager, confirm site access, and refresh Canvas. If that does not help, follow [Nothing changes on Canvas](/help/troubleshooting/#nothing-changes-on-canvas).
+Check that Canvas Refined is enabled in your browser's extension manager, confirm site access, and refresh Canvas. If that does not help, follow [Nothing changes on Canvas](/CanvasRefinedDocs/help/troubleshooting/#nothing-changes-on-canvas).
 
-**Next:** Follow [Quick Start](/getting-started/quick-start/) to set up your dashboard.
+**Next:** Follow [Quick Start](/CanvasRefinedDocs/getting-started/quick-start/) to set up your dashboard.

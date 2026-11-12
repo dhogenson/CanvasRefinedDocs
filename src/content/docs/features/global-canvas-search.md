@@ -40,4 +40,4 @@ Search builds an index from Canvas, so the first search may take time and show p
 
 Search primarily indexes modules, their items, and assignments from active courses available to your account. It is not a full-text search of every file, discussion, message, or page body. Large course collections, request limits, and Canvas permissions can leave the index incomplete.
 
-The index is cached in local extension storage for faster searches. See [Privacy and Permissions](/privacy/).
+The index is cached in local extension storage for faster searches. See [Privacy and Permissions](/CanvasRefinedDocs/privacy/).

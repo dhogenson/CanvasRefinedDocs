@@ -11,12 +11,12 @@ It is a separate project, not a replacement for Canvas or your school's support 
 
 | Your goal | Start here |
 | --- | --- |
-| Make Canvas more comfortable to read | [Dark Mode](/features/dark-mode/) |
-| See coursework and grades on course cards | [Dashboard Cards](/features/dashboard-cards/) |
-| Review upcoming work in one place | [Better Todo List](/features/better-todo-list/) |
-| Estimate your GPA and explore grades | [Grades and GPA](/features/grades-and-gpa/) |
-| Find modules and assignments across courses | [Global Canvas Search](/features/global-canvas-search/) |
-| Keep personal reminders on your dashboard | [Dashboard Notes](/features/dashboard-notes/) |
+| Make Canvas more comfortable to read | [Dark Mode](/CanvasRefinedDocs/features/dark-mode/) |
+| See coursework and grades on course cards | [Dashboard Cards](/CanvasRefinedDocs/features/dashboard-cards/) |
+| Review upcoming work in one place | [Better Todo List](/CanvasRefinedDocs/features/better-todo-list/) |
+| Estimate your GPA and explore grades | [Grades and GPA](/CanvasRefinedDocs/features/grades-and-gpa/) |
+| Find modules and assignments across courses | [Global Canvas Search](/CanvasRefinedDocs/features/global-canvas-search/) |
+| Keep personal reminders on your dashboard | [Dashboard Notes](/CanvasRefinedDocs/features/dashboard-notes/) |
 
 ## What should you expect?
 
@@ -30,8 +30,8 @@ Check the original assignment page for submission requirements and due dates. GP
 
 ## Get started
 
-1. [Install Canvas Refined](/getting-started/install/) in Chrome or Firefox.
-2. Follow [Quick Start](/getting-started/quick-start/) to check your dashboard and choose your first settings.
-3. Read [Privacy and Permissions](/privacy/) to understand site access, saved information, and external resources.
+1. [Install Canvas Refined](/CanvasRefinedDocs/getting-started/install/) in Chrome or Firefox.
+2. Follow [Quick Start](/CanvasRefinedDocs/getting-started/quick-start/) to check your dashboard and choose your first settings.
+3. Read [Privacy and Permissions](/CanvasRefinedDocs/privacy/) to understand site access, saved information, and external resources.
 
-Already installed? Visit [Customization](/customization/) or [Troubleshooting](/help/troubleshooting/).
+Already installed? Visit [Customization](/CanvasRefinedDocs/customization/) or [Troubleshooting](/CanvasRefinedDocs/help/troubleshooting/).

@@ -14,7 +14,7 @@ For missing submissions, course access, grading decisions, or exam rules, contac
 
 ## Before reporting a bug
 
-1. Follow the relevant [troubleshooting checks](/help/troubleshooting/).
+1. Follow the relevant [troubleshooting checks](/CanvasRefinedDocs/help/troubleshooting/).
 2. Find your extension version in your browser's extension manager.
 3. Check whether the problem happens with Canvas Refined disabled.
 4. If safe, check whether another Canvas extension causes a conflict.

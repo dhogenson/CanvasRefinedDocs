@@ -43,4 +43,4 @@ These tools depend on the grade information Canvas returns. They cannot reveal u
 
 Compare the calculator's included courses, percentages, credits, scale, and weights with your school's records. A matching percentage alone does not guarantee a matching GPA.
 
-For missing grades, see [An assignment or grade is missing](/help/troubleshooting/#an-assignment-or-grade-is-missing).
+For missing grades, see [An assignment or grade is missing](/CanvasRefinedDocs/help/troubleshooting/#an-assignment-or-grade-is-missing).

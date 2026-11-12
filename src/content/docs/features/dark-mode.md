@@ -26,7 +26,7 @@ Use one approach at a time. The device preference controls the main dark-mode co
 
 ## Fonts and backgrounds
 
-Open **Styles** to choose fonts or a background preset, or supply an image URL. These are separate from the dark-mode color preset. See [Customization](/customization/) and [external resources](/privacy/#external-resources).
+Open **Styles** to choose fonts or a background preset, or supply an image URL. These are separate from the dark-mode color preset. See [Customization](/CanvasRefinedDocs/customization/) and [external resources](/CanvasRefinedDocs/privacy/#external-resources).
 
 ## Restore the appearance
 
@@ -38,4 +38,4 @@ Open **Styles** to choose fonts or a background preset, or supply an image URL. 
 
 Embedded tools, documents, images, videos, and instructor-formatted content may keep their own colors. Dark mode cannot guarantee that every third-party page will match.
 
-If text becomes hard to read, try a built-in preset before changing more colors. If a page still looks wrong, see [A page looks broken](/help/troubleshooting/#a-page-looks-broken).
+If text becomes hard to read, try a built-in preset before changing more colors. If a page still looks wrong, see [A page looks broken](/CanvasRefinedDocs/help/troubleshooting/#a-page-looks-broken).

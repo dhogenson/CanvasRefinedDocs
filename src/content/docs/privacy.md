@@ -63,8 +63,8 @@ For fewer external resources, avoid remote backgrounds, custom web fonts, image-
 - Uninstalling normally removes the browser's local extension storage. It does not delete downloaded exports, information already saved in Canvas, or necessarily every copy managed by browser sync.
 - For browser-sync retention and removal, consult your browser provider's controls and policy.
 
-See [Customization](/customization/#restore-defaults) for a safer way to undo appearance changes, or [temporarily disable the extension](/help/troubleshooting/#temporarily-disable-canvas-refined) to troubleshoot without intentionally deleting its storage.
+See [Customization](/CanvasRefinedDocs/customization/#restore-defaults) for a safer way to undo appearance changes, or [temporarily disable the extension](/CanvasRefinedDocs/help/troubleshooting/#temporarily-disable-canvas-refined) to troubleshoot without intentionally deleting its storage.
 
 ## Questions or concerns
 
-Read the [developer's privacy policy](https://github.com/GuySandler/CanvasRefined/blob/main/PRIVACY_POLICY.md) and use its private contact information for sensitive questions. Do not include private school records in a public [support report](/help/support/).
+Read the [developer's privacy policy](https://github.com/GuySandler/CanvasRefined/blob/main/PRIVACY_POLICY.md) and use its private contact information for sensitive questions. Do not include private school records in a public [support report](/CanvasRefinedDocs/help/support/).

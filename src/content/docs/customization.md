@@ -30,13 +30,13 @@ Keep enough contrast between text and backgrounds. If an image makes coursework 
 
 In **Styles**, choose a font or a background preset, or enter an image URL. An image address should point to an accessible image, not a webpage containing one.
 
-Remote fonts, images, and daily backgrounds can make requests to their providers. See [external resources](/privacy/#external-resources) before using a sensitive or private URL.
+Remote fonts, images, and daily backgrounds can make requests to their providers. See [external resources](/CanvasRefinedDocs/privacy/#external-resources) before using a sensitive or private URL.
 
 ## Dashboard widgets
 
 In **Widgets**, enable the widgets you want and choose their positions. Current options include top, before cards, after cards, and bottom. **Widget order** lets you arrange enabled widgets sharing an area.
 
-Besides [notes](/features/dashboard-notes/) and [GPA](/features/grades-and-gpa/), current versions include focus timers, breathing exercises, daily quotes, quick links, and an activity heatmap. These are optional; start with just the widgets you need.
+Besides [notes](/CanvasRefinedDocs/features/dashboard-notes/) and [GPA](/CanvasRefinedDocs/features/grades-and-gpa/), current versions include focus timers, breathing exercises, daily quotes, quick links, and an activity heatmap. These are optional; start with just the widgets you need.
 
 ## Export and import settings
 
@@ -45,7 +45,7 @@ Besides [notes](/features/dashboard-notes/) and [GPA](/features/grades-and-gpa/)
 3. Use the export control and keep the generated text somewhere safe.
 4. To restore a setup, use the **Import** controls in the same section.
 
-Treat an export as a selection of settings, not a complete backup. Note text, course-specific data, cached content, and other personal information are not all included. Copy important [Dashboard Notes](/features/dashboard-notes/) separately.
+Treat an export as a selection of settings, not a complete backup. Note text, course-specific data, cached content, and other personal information are not all included. Copy important [Dashboard Notes](/CanvasRefinedDocs/features/dashboard-notes/) separately.
 
 Only import settings from sources you trust. Themes can include custom CSS and external image or font URLs. Check exported content before sharing it.
 
@@ -63,4 +63,4 @@ Try the smallest reset first:
 This is not a complete privacy wipe: it does not clear every local cache, remove downloaded exports, or undo actions already saved to Canvas.
 :::
 
-For a temporary clean comparison, [disable the extension](/help/troubleshooting/#temporarily-disable-canvas-refined) instead of resetting or uninstalling.
+For a temporary clean comparison, [disable the extension](/CanvasRefinedDocs/help/troubleshooting/#temporarily-disable-canvas-refined) instead of resetting or uninstalling.

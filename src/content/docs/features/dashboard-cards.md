@@ -31,10 +31,10 @@ Grades depend on what Canvas makes available for each course. A missing card gra
 
 Open **Card Settings** (called **Card Customization** in some versions) to adjust course card details and appearance. Options include colors, images, spacing, size, and additional card styles.
 
-Change a small number of settings at a time, then refresh Canvas if necessary. See [Customization](/customization/) for backgrounds and other dashboard settings.
+Change a small number of settings at a time, then refresh Canvas if necessary. See [Customization](/CanvasRefinedDocs/customization/) for backgrounds and other dashboard settings.
 
 ## Limitations and common problems
 
 These features are designed around dashboard course cards, not every Canvas dashboard view. Hidden courses, unavailable grades, filters, and item limits affect what you see.
 
-If a card or grade is missing, compare it with the original Canvas course and follow [An assignment or grade is missing](/help/troubleshooting/#an-assignment-or-grade-is-missing).
+If a card or grade is missing, compare it with the original Canvas course and follow [An assignment or grade is missing](/CanvasRefinedDocs/help/troubleshooting/#an-assignment-or-grade-is-missing).

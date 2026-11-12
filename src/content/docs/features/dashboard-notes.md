@@ -44,4 +44,4 @@ The saved text is not an assignment submission or a per-course Canvas note. The 
 Sync storage has size limits and is not a backup service. Copy important text elsewhere before resetting settings, changing profiles, or uninstalling. Theme exports do not include your note text.
 :::
 
-For more about storage, see [Privacy and Permissions](/privacy/). If notes disappear, confirm that you are using the same browser profile and that the feature is still enabled before resetting anything.
+For more about storage, see [Privacy and Permissions](/CanvasRefinedDocs/privacy/). If notes disappear, confirm that you are using the same browser profile and that the feature is still enabled before resetting anything.

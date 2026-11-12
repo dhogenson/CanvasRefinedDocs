@@ -22,6 +22,6 @@ Quiz Safe Mode is not approval to use the extension during an exam. It does not 
 
 Quiz detection depends on the page. External quiz tools, embedded tools, and different quiz implementations may behave differently.
 
-If your school requires extensions to be disabled, [disable Canvas Refined in your browser](/help/troubleshooting/#temporarily-disable-canvas-refined) rather than relying on Quiz Safe Mode.
+If your school requires extensions to be disabled, [disable Canvas Refined in your browser](/CanvasRefinedDocs/help/troubleshooting/#temporarily-disable-canvas-refined) rather than relying on Quiz Safe Mode.
 
 If something goes wrong during an active attempt, follow your instructor's instructions and contact course support. Avoid troubleshooting changes or refreshing a timed quiz unless you know doing so is safe.

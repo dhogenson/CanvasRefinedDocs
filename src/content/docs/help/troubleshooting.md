@@ -22,7 +22,7 @@ If installation or access is blocked on a school-managed browser, contact your s
 3. Enter the Canvas site's base address, such as `https://canvas.example.edu`.
 4. Confirm browser site access and refresh Canvas.
 
-Do not add unrelated sites. If detection still fails, [report the problem](/help/support/) with a redacted URL pattern; do not include login links or session tokens.
+Do not add unrelated sites. If detection still fails, [report the problem](/CanvasRefinedDocs/help/support/) with a redacted URL pattern; do not include login links or session tokens.
 
 ## I changed a setting, but nothing happened
 
@@ -45,7 +45,7 @@ A background image, card style, and dark-mode color preset are separate settings
 
 If Canvas itself does not show the data, contact your instructor or school's Canvas support. The extension cannot release grades or grant course access.
 
-The [Better Todo List](/features/better-todo-list/), [Dashboard Cards](/features/dashboard-cards/), and [GPA calculator](/features/grades-and-gpa/) each have different filters and assumptions.
+The [Better Todo List](/CanvasRefinedDocs/features/better-todo-list/), [Dashboard Cards](/CanvasRefinedDocs/features/dashboard-cards/), and [GPA calculator](/CanvasRefinedDocs/features/grades-and-gpa/) each have different filters and assumptions.
 
 ## A page looks broken
 
@@ -55,7 +55,7 @@ The [Better Todo List](/features/better-todo-list/), [Dashboard Cards](/features
 4. Temporarily disable other Canvas styling or dashboard extensions, one at a time.
 5. Compare the page with Canvas Refined disabled, then restore the extensions you normally use.
 
-If the problem only happens with Canvas Refined enabled, [report it](/help/support/) with the page type, reproduction steps, and redacted screenshots.
+If the problem only happens with Canvas Refined enabled, [report it](/CanvasRefinedDocs/help/support/) with the page type, reproduction steps, and redacted screenshots.
 
 ## Temporarily disable Canvas Refined
 
@@ -71,8 +71,8 @@ To disable only one feature, use its toggle in the popup.
 
 Check that you are in the same browser profile and that the feature is still enabled. Sync availability differs by browser and account settings.
 
-Do not reset storage as a first step: a reset can replace saved note text with an empty value. Restore a settings export if you have one, and recover notes from your separate copy. See [Dashboard Notes](/features/dashboard-notes/#where-notes-are-saved).
+Do not reset storage as a first step: a reset can replace saved note text with an empty value. Restore a settings export if you have one, and recover notes from your separate copy. See [Dashboard Notes](/CanvasRefinedDocs/features/dashboard-notes/#where-notes-are-saved).
 
 ## Still need help?
 
-Use [Support and Feedback](/help/support/) for a report checklist. Do not post passwords, API tokens, private course content, or unredacted grades.
+Use [Support and Feedback](/CanvasRefinedDocs/help/support/) for a report checklist. Do not post passwords, API tokens, private course content, or unredacted grades.

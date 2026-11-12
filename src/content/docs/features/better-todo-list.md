@@ -32,7 +32,7 @@ Hover previews are a convenience; open the actual assignment to read all instruc
 
 ## Completion is not submission
 
-Marking something complete in a to-do list is not the same as submitting an assignment. Some to-do actions update Canvas planner completion state. Custom tasks created through the list are Canvas planner notes, not [Dashboard Notes](/features/dashboard-notes/).
+Marking something complete in a to-do list is not the same as submitting an assignment. Some to-do actions update Canvas planner completion state. Custom tasks created through the list are Canvas planner notes, not [Dashboard Notes](/CanvasRefinedDocs/features/dashboard-notes/).
 
 Always use the assignment's own page to submit work and check submission status.
 
@@ -40,4 +40,4 @@ Always use the assignment's own page to submit work and check submission status.
 
 The list is a filtered view, not a guarantee that every task, announcement, or deadline appears. Canvas permissions, course content, dates, and list settings all matter.
 
-Turn **Better Todo List** off in the popup if you prefer Canvas's normal dashboard list. For missing work, see [troubleshooting](/help/troubleshooting/#an-assignment-or-grade-is-missing).
+Turn **Better Todo List** off in the popup if you prefer Canvas's normal dashboard list. For missing work, see [troubleshooting](/CanvasRefinedDocs/help/troubleshooting/#an-assignment-or-grade-is-missing).
