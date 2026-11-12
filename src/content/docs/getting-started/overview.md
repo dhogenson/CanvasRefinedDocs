@@ -1,26 +1,37 @@
 ---
 title: Overview
-description: What Canvas Refined does, and who it's for.
+description: Learn what Canvas Refined changes, who it is for, and where to start.
 ---
 
-Welcome and thank you for using Canvas Refined!
+Canvas Refined is a browser extension for students who use Canvas LMS. It adds dark mode, dashboard customization, assignment organization, and grade tools to the Canvas website you already use.
 
-Canvas Refined is a browser extension that gives Canvas LMS dark mode, a better todo list, a GPA calculator, and more to help you personalize your Canvas experience.
+It is a separate project, not a replacement for Canvas or your school's support team.
 
-## Who is it for?
+## What can you do?
 
-Canvas Refined is for students who use Canvas that want more control over how it looks and how to organize their school work.
+| Your goal | Start here |
+| --- | --- |
+| Make Canvas more comfortable to read | [Dark Mode](/features/dark-mode/) |
+| See coursework and grades on course cards | [Dashboard Cards](/features/dashboard-cards/) |
+| Review upcoming work in one place | [Better Todo List](/features/better-todo-list/) |
+| Estimate your GPA and explore grades | [Grades and GPA](/features/grades-and-gpa/) |
+| Find modules and assignments across courses | [Global Canvas Search](/features/global-canvas-search/) |
+| Keep personal reminders on your dashboard | [Dashboard Notes](/features/dashboard-notes/) |
 
-## What can you do with Canvas Refined?
+## What should you expect?
 
-- **Personalize Canvas:** Fully customizable dark mode, you can choose from pre-made options or manually edit it yourself.
-- **Organize your school work:** Keep track of things you have to do with an improved to do list.
-- **Deeper insights into your grades:** Use the GPA calculator to see your GPA across all your classes.
+Dark mode, card assignments and grades, the Better Todo List, the GPA calculator, and Grade Analytics are enabled by default on a new installation. Other features, including notes and global search, need to be enabled.
 
-See the **Features** section for instructions, settings, and limitations for each feature.
+These docs follow the public 7.2.0 source. Browser-store releases and translated labels may differ. Use **Search features...** in the extension popup to find a setting if its location has changed.
 
-## Where to go next
+:::note[Canvas is still the source of truth]
+Check the original assignment page for submission requirements and due dates. GPA calculations are estimates, not an official academic record. The extension cannot reveal grades or course material that Canvas does not make available to you.
+:::
 
-1. [Install Canvas Refined](/getting-started/install/).
-2. Follow the [Quick Start](/getting-started/quick-start/) for your first setup.
-3. Explore features such as [the Better Todo List](/features/better-todo-list/) and [grades and GPA](/features/grades-and-gpa/).
+## Get started
+
+1. [Install Canvas Refined](/getting-started/install/) in Chrome or Firefox.
+2. Follow [Quick Start](/getting-started/quick-start/) to check your dashboard and choose your first settings.
+3. Read [Privacy and Permissions](/privacy/) to understand site access, saved information, and external resources.
+
+Already installed? Visit [Customization](/customization/) or [Troubleshooting](/help/troubleshooting/).

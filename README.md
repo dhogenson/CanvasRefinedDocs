@@ -1,49 +1,63 @@
-# Starlight Starter Kit: Basics
+# Canvas Refined documentation
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+User guides for [Canvas Refined](https://github.com/GuySandler/CanvasRefined), a browser extension that customizes Canvas LMS. Built with [Astro](https://docs.astro.build) and [Starlight](https://starlight.astro.build).
 
-```
-npm create astro@latest -- --template starlight
-```
+This repository contains the documentation website, not the extension itself. Report extension bugs in the [extension repository](https://github.com/GuySandler/CanvasRefined/issues).
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Develop locally
 
-## 🚀 Project Structure
+Use a Node.js version supported by the installed Astro release and npm.
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
-
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
+```sh
+npm ci
+npm run dev -- --background
 ```
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+Astro prints the local server URL. Manage the background server with:
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+```sh
+npm run astro -- dev status
+npm run astro -- dev logs
+npm run astro -- dev stop
+```
 
-Static assets, like favicons, can be placed in the `public/` directory.
+## Validate and build
 
-## 🧞 Commands
+```sh
+npm run check:docs
+```
 
-All commands are run from the root of the project, from a terminal:
+This tests the link checker, builds the site (including Starlight's search index), and checks generated local links, images, and page anchors. It does not check external URLs or test the extension against a live Canvas account.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+Other useful commands:
 
-## 👀 Want to learn more?
+| Command | Purpose |
+| --- | --- |
+| `npm run build` | Generate the static site in `dist/`. |
+| `npm run preview` | Preview the production build locally. |
+| `npm run astro -- --help` | Show Astro CLI commands. |
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+Before deployment, set Astro's `site` option in `astro.config.mjs` to the actual public website URL so the sitemap integration can generate a sitemap. No production domain is assumed here.
+
+## Project structure
+
+```text
+astro.config.mjs             Site title, branding, and sidebar
+src/content/docs/            Markdown and MDX pages
+  getting-started/           Overview, installation, and quick start
+  features/                  Task-focused feature guides
+  help/                      Troubleshooting and support
+  customization.md           Appearance, widgets, exports, and resets
+  privacy.md                 Permissions, storage, and network behavior
+src/content.config.ts        Starlight content collection schema
+public/guides/               Original, labeled SVG guide diagrams
+scripts/check-links.mjs      Local build-output link and anchor checker
+```
+
+Add user-facing pages under `src/content/docs/` and include them in the explicit sidebar in `astro.config.mjs` when appropriate. Give every page a descriptive `title` and `description` in its frontmatter. Use root-relative internal links with trailing slashes, for example `/features/dark-mode/`.
+
+# License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is MIT
