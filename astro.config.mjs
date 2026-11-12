@@ -3,7 +3,9 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  // Set `site` to the public deployment URL to enable sitemap generation.
+  site: 'https://dhogenson.github.io',
+  base: 'CanvasRefinedDocs',
+
   integrations: [
     starlight({
       favicon: './public/canvas-refined.png',
